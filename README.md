@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech Graduate in Computer Science Engineering (AI & ML)
 - 💻 Passionate about Full Stack Web Development and Artificial Intelligence
-- 🌱 Currently learning **MERN Stack, DevOps, Cloud Computing, and System Design**
+- 🌱 Currently learning **MERN Stack, JAVA,Data Analytics , and **
 - 🔭 Working on **E-Commerce and AI-based Projects**
 - 👨‍💻 Check out my projects: [GitHub Profile](https://github.com/Pranav0913)
 - 📫 Reach me at: **pranav3396@gmail.com**
